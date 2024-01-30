@@ -1,6 +1,17 @@
 {
-    "context": ["mobile", "backend", "frontend","pm","qa","game","data-science","database","embedded","cyber-security"],
-    "internLocation": ["uzaktan", "yüzyüze"],
-    "internType": ["gönüllü", "zorunlu"],
-    "internDuration": ["4hafta", "6hafta"]
-  }
+  "context": [
+    "mobile",
+    "backend",
+    "frontend",
+    "pm",
+    "qa",
+    "game",
+    "data-science",
+    "database",
+    "embedded",
+    "cyber-security"
+  ],
+  "internLocation": ["uzaktan", "yüzyüze"],
+  "internType": ["gönüllü", "zorunlu"],
+  "internDuration": ["4hafta", "6hafta", "uzundonem"]
+}
