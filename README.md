@@ -11,7 +11,7 @@ Başta zorunlu staj ihtiyacı olan öğrenci arkadaşlar ile stajyer almak istey
 - Alan kısmı bu bilgilerden birini veya birden fazlasını alabilir: ["mobile", "backend", "frontend","pm","qa","game","data-science","database","embedded", "blockchain"]
 - Staj yeri: ["uzaktan", "yüzyüze"]
 - Staj tipi: ["zorunlu", "gönüllü"]
-- Staj süresi: ["4hafta", "6hafta"]
+- Staj süresi: ["4hafta", "6hafta","14hafta"]
 - Bu bilgiler dışında kabül edilmemektedir ve örneklere bakarak birden fazla giriş yapabilirsiniz.
 
 > Yeni eklemeler duruma göre olacaktır. Önerisi olan label.json içinde ekleyip pr da atabilir.
